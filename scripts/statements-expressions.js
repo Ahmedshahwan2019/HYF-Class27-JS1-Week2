@@ -53,8 +53,8 @@
 	  console.log('Less than 100');
 	}
 
-	 /* 
-	  * A nice video explanation for statements vs expressions can also be found here:
-	  * https://www.youtube.com/watch?v=WVyCrI1cHi8
-	  */
+ /* 
+	* A nice video explanation for statements vs expressions can also be found here:
+	* https://www.youtube.com/watch?v=WVyCrI1cHi8
+	*/
 }
