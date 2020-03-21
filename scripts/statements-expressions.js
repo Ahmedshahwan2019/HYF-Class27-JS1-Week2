@@ -45,12 +45,12 @@
 
 	console.log(100);
 	for (let x = 0; x < 5; x++) {
-		console.log(x);
+	  console.log(x);
 	}
 	if (x > 100) {
-		console.log('Greater than 100');
+	  console.log('Greater than 100');
 	} else {
-		console.log('Less than 100');
+	  console.log('Less than 100');
 	}
 
 	 /* 
