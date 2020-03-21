@@ -13,25 +13,25 @@
 	 */
 
 	 /*
-		* Below is a simple line of code which you would have seen or written previous week.
-		* It creates a constant variable named x and assigns it the value 10. If you look closely, this whole line of code
-		* is a statement or an instruction for the computer to do something. However, it also contains an expression. The value 10.
-		* Even though 10 itself is a value, in terms of computer interpretation, it would still be considered as an expression which
-		* evaluates to a value 10. Still not clear? Let's look at another example.
-		*/
+	  * Below is a simple line of code which you would have seen or written previous week.
+	  * It creates a constant variable named x and assigns it the value 10. If you look closely, this whole line of code
+	  * is a statement or an instruction for the computer to do something. However, it also contains an expression. The value 10.
+	  * Even though 10 itself is a value, in terms of computer interpretation, it would still be considered as an expression which
+	  * evaluates to a value 10. Still not clear? Let's look at another example.
+	  */
 	 const x = 10;
 
 	 /*
-		* Let's leave aside the fact that we don't know anything about functions. Imagine that there is a piece of code written inside
-		* getMyAge function which gives me back my current age and assigns it to a variable named age. Again, this whole line of code is
-		* a statement. However, getMyAge() is an expression which would evaluate to a single value 30(my age) when this piece of code executes.
-		*/
+ 	  * Let's leave aside the fact that we don't know anything about functions. Imagine that there is a piece of code written inside
+	  * getMyAge function which gives me back my current age and assigns it to a variable named age. Again, this whole line of code is
+	  * a statement. However, getMyAge() is an expression which would evaluate to a single value 30(my age) when this piece of code executes.
+	  */
 	 const age = getMyAge();
 
 	 /*
-		* Below are valid pieces of code(expressions) which evaluate to a single value 9. But they are pretty useless because we are not using
-		* those evaluated values anywhere. They will get lost once the computer moves over to next statement.
-		* This implies that an expression without being used inside a statement is quite useless.
+	  * Below are valid pieces of code(expressions) which evaluate to a single value 9. But they are pretty useless because we are not using
+	  * those evaluated values anywhere. They will get lost once the computer moves over to next statement.
+	  * This implies that an expression without being used inside a statement is quite useless.
 	  */
 	 4 + 5
 	 a + b
@@ -54,7 +54,7 @@
 	}
 
 	 /* 
-		* A nice video explanation for statements vs expressions can also be found here:
-		* https://www.youtube.com/watch?v=WVyCrI1cHi8
-		*/
+	  * A nice video explanation for statements vs expressions can also be found here:
+	  * https://www.youtube.com/watch?v=WVyCrI1cHi8
+	  */
 }
